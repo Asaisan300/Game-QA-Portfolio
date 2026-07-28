@@ -1,10 +1,8 @@
-### **BUG-001: Player Can Fall Out of Bounds and Become Stuck in Infinite Fall**
+\# BUG-001: Player Can Fall Out of Bounds and Become Stuck in Infinite Fall
 
 
 
-
-
-##### **Description**
+\## Description
 
 
 
@@ -16,9 +14,7 @@ Reloading the affected save does not recover the player's position, as the playe
 
 
 
-
-
-##### **Steps to Reproduce**
+\## Steps to Reproduce
 
 
 
@@ -34,7 +30,7 @@ Reloading the affected save does not recover the player's position, as the playe
 
 
 
-##### **Expected Result**
+\## Expected Result
 
 
 
@@ -42,7 +38,7 @@ The player should remain within the playable area and should not be able to move
 
 
 
-##### **Actual Result**
+\## Actual Result
 
 
 
@@ -50,7 +46,7 @@ The player clips through the rock, falls out of bounds indefinitely, and remains
 
 
 
-##### **Repro Rate**
+\## Repro Rate
 
 
 
@@ -58,7 +54,7 @@ The player clips through the rock, falls out of bounds indefinitely, and remains
 
 
 
-##### **Severity**
+\## Severity
 
 
 
@@ -66,9 +62,11 @@ Critical
 
 
 
-##### **Attachments**
+\## Attachments
 
 
 
-* Video: \[BUG-001-OutOfMap.mp4](../Evidence/BUG-001-OutOfMap.mp4)
+\* Video: \[BUG-001-OutOfMap.mp4](../Evidence/BUG-001-OutOfMap.mp4)
+
+
 
