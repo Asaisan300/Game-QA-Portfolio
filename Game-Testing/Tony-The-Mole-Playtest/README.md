@@ -30,15 +30,15 @@
 
 | ------------------------------------------------------------- | -------------------------- | -------- | ---------- |
 
-| \[BUG-001](Bug-Reports/BUG-001-Infinite-Fall-Out-of-Bounds.md) | Out of Bounds / Collision  | Critical | 2/5        |
+| [BUG-001](Bug-Reports/BUG-001-Infinite-Fall-Out-of-Bounds.md) | Out of Bounds / Collision  | Critical | 2/5        |
 
-| \[BUG-002](Bug-Reports/BUG-002-Wall-Collision-Inside-House.md) | Collision / Level Boundary | Medium   | 5/5        |
+| [BUG-002](Bug-Reports/BUG-002-Wall-Collision-Inside-House.md) | Collision / Level Boundary | Medium   | 5/5        |
 
-| \[BUG-003](Bug-Reports/BUG-003-Digging-Gate-Bypass.md)         | Progression Bypass         | Medium   | 5/5        |
+| [BUG-003](Bug-Reports/BUG-003-Digging-Gate-Bypass.md)         | Progression Bypass         | Medium   | 5/5        |
 
-| \[BUG-004](Bug-Reports/BUG-004-Rock-Collider-Locked-Area.md)   | Collision / Level Boundary | Medium   | 5/5        |
+| [BUG-004](Bug-Reports/BUG-004-Rock-Collider-Locked-Area.md)   | Collision / Level Boundary | Medium   | 5/5        |
 
-| \[BUG-005](Bug-Reports/BUG-005-Language-Setting.md)            | Localization / Settings    | Low      | 5/5        |
+| [BUG-005](Bug-Reports/BUG-005-Language-Setting.md)            | Localization / Settings    | Low      | 5/5        |
 
 
 
