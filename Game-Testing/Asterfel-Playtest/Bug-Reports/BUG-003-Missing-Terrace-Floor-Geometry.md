@@ -30,6 +30,6 @@ Medium
 
 ## Attachments
 
-* Screenshot: [BUG-003-Terrace-Area.png](../Evidence/BUG-003-Terrace-Area.png)
-* Screenshot: [BUG-003-Terrace-View-Above.png](../Evidence/BUG-003-Terrace-View-Above.png)
-* Screenshot: [BUG-003-Terrace-View-Below.png](../Evidence/BUG-003-Terrace-View-Below.png)
+* Screenshot: [BUG-003-Terrace-Area.jpg](../Evidence/BUG-003-Terrace-Area.jpg)
+* Screenshot: [BUG-003-Terrace-View-Above.jpg](../Evidence/BUG-003-Terrace-View-Above.jpg)
+* Screenshot: [BUG-003-Terrace-View-Below.jpg](../Evidence/BUG-003-Terrace-View-Below.jpg)
