@@ -65,3 +65,7 @@ A missing section of floor geometry was observed on the underside of a house ter
 ## Notes
 
 Other tested environmental elements and accessible areas appeared to function and render as expected.
+
+## Bug Reference
+
+[BUG-003](../../Bug-Reports/BUG-003-Missing-Terrace-Floor-Geometry.md)

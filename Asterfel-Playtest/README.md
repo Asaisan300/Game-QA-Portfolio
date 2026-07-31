@@ -5,7 +5,7 @@
 | Field            | Details                                      |
 | ---------------- | -------------------------------------------- |
 | **Game**         | Asterfel                                     |
-| **Build**        | V.0.0.4.0                                    |
+| **Build**        | V.0.0.4.2                                    |
 | **Platform**     | PC                                           |
 | **Language**     | English                                      |
 | **Testing Type** | Exploratory / Functional / Edge Case Testing |
@@ -18,6 +18,7 @@
 | [BUG-002](Bug-Reports/BUG-002-Bear-Boss-Does-Not-Pursue-Player.md)  | Enemy AI / Combat      | High     | 100%       |
 | [BUG-003](Bug-Reports/BUG-003-Missing-Terrace-Floor-Geometry.md)    | Environment / Geometry | Medium   | 100%       |
 | [BUG-004](Bug-Reports/BUG-004-Inventory-Close-Input-State.md)       | Input / Inventory UI   | High     | 100%       |
+| [BUG-005](Bug-Reports/BUG-005-Character-Floats-When-Equipping-Boots.md) | Equipment / Character Positioning | Medium | 100% |
 
 ## Testing Focus
 

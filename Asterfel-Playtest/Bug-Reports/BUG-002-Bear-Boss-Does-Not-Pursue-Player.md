@@ -8,7 +8,7 @@ Other observed enemies pursue the player when the player moves away from them.
 
 ## Steps to Reproduce
 
-1. Launch build V.0.0.4.0.
+1. Launch build V.0.0.4.2.
 2. Locate the bear boss during exploration.
 3. Approach the bear until it detects and attacks the player.
 4. Move away from the bear and leave its attack range.

@@ -67,3 +67,7 @@ A separate input issue was observed when right-clicking an inventory item and cl
 ## Notes
 
 The repeated item icons appear to be placeholder assets and were not treated as a bug.
+
+## Bug Reference
+
+[BUG-004](../../Bug-Reports/BUG-004-Inventory-Close-Input-State.md)

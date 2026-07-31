@@ -8,7 +8,7 @@ The issue occurs when changing the Constitution-enhancing equipment either befor
 
 ## Steps to Reproduce
 
-1. Launch build V.0.0.4.0.
+1. Launch build V.0.0.4.2.
 2. Take damage until the character's current health is below maximum health.
 3. Equip armor that increases Constitution.
 4. Sleep in a bed and allow the character's health to fully regenerate.

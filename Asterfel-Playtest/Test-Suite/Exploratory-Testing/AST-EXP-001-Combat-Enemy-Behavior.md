@@ -65,3 +65,7 @@ The bear boss can detect, track, and attack the player, but does not move from i
 ## Notes
 
 The bear can rotate freely to track the player's position and can successfully deal and receive damage. However, unlike other observed enemies, it does not move toward the player when the player leaves its attack range.
+
+## Bug Reference
+
+[BUG-002](../../Bug-Reports/BUG-002-Bear-Boss-Does-Not-Pursue-Player.md)

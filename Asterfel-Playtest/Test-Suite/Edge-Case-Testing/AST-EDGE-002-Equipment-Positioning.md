@@ -42,3 +42,7 @@ Equipping any available boots causes the character to float slightly above the g
 ## Test Result
 
 **Fail**
+
+## Bug Reference
+
+[BUG-005](../../Bug-Reports/BUG-005-Character-Floats-When-Equipping-Boots.md)

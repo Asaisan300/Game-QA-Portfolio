@@ -8,7 +8,7 @@ Character movement remains functional, but the player cannot control the camera 
 
 ## Steps to Reproduce
 
-1. Launch build V.0.0.4.0.
+1. Launch build V.0.0.4.2.
 2. Open the inventory.
 3. Right-click an available inventory item.
 4. Do not select any of the available item actions.

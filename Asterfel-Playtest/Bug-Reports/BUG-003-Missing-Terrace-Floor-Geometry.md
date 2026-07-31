@@ -6,7 +6,7 @@ A section of floor geometry is missing on the underside of a house terrace, allo
 
 ## Steps to Reproduce
 
-1. Launch build V.0.0.4.0.
+1. Launch build V.0.0.4.2.
 2. Locate the house with the accessible terrace.
 3. Move the character to a position below the terrace.
 4. Look toward the underside of the terrace.

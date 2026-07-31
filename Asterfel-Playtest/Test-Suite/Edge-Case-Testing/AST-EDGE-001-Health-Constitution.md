@@ -54,3 +54,7 @@ After sleeping, changing Constitution-enhancing equipment causes the character's
 ## Test Result
 
 **Fail**
+
+## Bug Reference
+
+[BUG-001](../../Bug-Reports/BUG-001-Health-Reverts-After-Bed-Recovery.md)
