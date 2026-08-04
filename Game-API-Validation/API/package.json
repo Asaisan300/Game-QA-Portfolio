@@ -1,0 +1,22 @@
+{
+  "name": "game-api-validation",
+  "version": "1.0.0",
+  "description": "Game-oriented REST API for QA validation and API testing practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "qa",
+    "api-testing",
+    "postman",
+    "game-qa",
+    "software-testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
